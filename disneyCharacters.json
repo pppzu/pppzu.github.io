@@ -1,0 +1,104 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Achilles",
+      "film": "Hercules",
+      "sourceUrl": "https://disney.fandom.com/wiki/Achilles_(Hercules)",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/d/d3/Vlcsnap-2015-05-06-23h04m15s601.png",
+      "createdAt": "2021-04-12T01:31:30.547Z",
+      "updatedAt": "2021-12-20T20:39:18.033Z",
+      "url": "https://api.disneyapi.dev/characters/112"
+    },
+    {
+      "no": "2",
+      "name": "Abigail the Cow",
+      "film": "The Fox and the Hound",
+      "sourceUrl": "https://disney.fandom.com/wiki/Abigail_the_Cow",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/0/05/Fox-disneyscreencaps_com-901.jpg",
+      "createdAt": "2021-04-12T01:26:03.413Z",
+      "updatedAt": "2021-12-20T20:39:18.032Z",
+      "url": "https://api.disneyapi.dev/characters/18"
+    },
+    {
+      "no": "3",
+      "name": "Admiral Boom and Mr. Binnacle",
+      "film": "Cheetah",
+      "sourceUrl": "https://disney.fandom.com/wiki/Admiral_Boom_and_Mr._Binnacle",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/b/be/Marypoppins-disneyscreencaps_com-1086.jpg",
+      "createdAt": "2021-04-12T01:26:21.560Z",
+      "updatedAt": "2021-12-20T20:39:18.033Z",
+      "url": "https://api.disneyapi.dev/characters/45"
+    },
+    {
+      "no": "4",
+      "name": ".GIFfany",
+      "film": "Gravity Falls",
+      "sourceUrl": "https://disney.fandom.com/wiki/.GIFfany",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/5/51/Giffany.png",
+      "createdAt": "2021-04-12T01:25:10.354Z",
+      "updatedAt": "2021-12-20T20:39:18.032Z",
+      "url": "https://api.disneyapi.dev/characters/7"
+    },
+    {
+      "no": "5",
+      "name": "90's Adventure Bear",
+      "film": "Pickle and Peanut",
+      "sourceUrl": "https://disney.fandom.com/wiki/90%27s_Adventure_Bear_(character)",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/3/3f/90%27s_Adventure_Bear_profile.png",
+      "createdAt": "2021-04-12T01:26:00.335Z",
+      "updatedAt": "2021-12-20T20:39:18.032Z",
+      "url": "https://api.disneyapi.dev/characters/12"
+    },
+    {
+      "no": "6",
+      "name": "Candace Adams",
+      "film": "K.C. Undercover",
+      "sourceUrl": "https://disney.fandom.com/wiki/Candace_Adams",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/8/8b/Enemy_of_the_State_promo_3.jpg",
+      "createdAt": "2021-04-12T01:26:16.062Z",
+      "updatedAt": "2021-12-20T20:39:18.033Z",
+      "url": "https://api.disneyapi.dev/characters/36"
+    },
+    {
+      "no": "7",
+      "name": "Ahadi",
+      "film": "The Lion King",
+      "sourceUrl": "https://disney.fandom.com/wiki/Ahadi",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/b/b3/Ahadihead.png",
+      "createdAt": "2021-04-12T01:31:47.129Z",
+      "updatedAt": "2021-12-20T20:39:18.877Z",
+      "url": "https://api.disneyapi.dev/characters/139"
+    },
+    {
+      "no": "8",
+      "name": "Al Muddy Sultan",
+      "film": "Aladdin (TV series)",
+      "sourceUrl": "https://disney.fandom.com/wiki/Al_Muddy_Sultan",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/e/e0/Almuddyking.jpg",
+      "createdAt": "2021-04-12T01:31:55.281Z",
+      "updatedAt": "2021-12-20T20:39:18.877Z",
+      "url": "https://api.disneyapi.dev/characters/152"
+    },
+    {
+      "no": "9",
+      "name": "Irwina Allen",
+      "film": "Chip 'n Dale Rescue Rangers",
+      "sourceUrl": "https://disney.fandom.com/wiki/Ahadi",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/4/48/Chip_%27n_Dale_Rescue_Rangers_109_Risky_Beesness_arsenaloyal_-_YouTube12.jpg",
+      "createdAt": "2021-04-12T01:32:15.300Z",
+      "updatedAt": "2021-12-20T20:39:18.877Z",
+      "url": "https://api.disneyapi.dev/characters/181"
+    },
+    {
+      "no": "10",
+      "name": "Ambrose",
+      "film": "The Robber Kitten",
+      "sourceUrl": "https://disney.fandom.com/wiki/Ambrose",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/d/d3/Ambrose.jpg",
+      "createdAt": "2021-04-12T01:32:29.083Z",
+      "updatedAt": "2021-12-20T20:39:19.408Z",
+      "url": "https://api.disneyapi.dev/characters/204"
+    }
+  ]
+}
